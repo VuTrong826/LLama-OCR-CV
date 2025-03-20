@@ -50,7 +50,7 @@ def process_cv(folder_path):
     return all_cv_text
 
 #thay đổi token
-#login(token=" điền Token")
+login(token="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")
 
 # Model Llama
 model_id = "meta-llama/Llama-3.2-3B-Instruct"
