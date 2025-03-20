@@ -1,0 +1,6 @@
+Họ và Tên,Điều kiện đáp ứng,Đáp ứng yêu cầu,_id
+BINH MINH,"['Biết Python: Có', 'Tiếng Anh: Basic Working Proficiency ', 'Computer Vision: Có', 'Natural Language Processing (NLP): Có', 'GPA trên 2.8: Có', 'Thiếu Kinh nghiệm làm việc trên 8 tháng']",Đáp ứng 4 yêu cầu,67d3e9c5949532ec59d74fcb
+CHIEN THANG,"['Biết Python: Có', 'Tiếng Anh: Basic Working Proficiency ', 'Thiếu Computer Vision', 'Thiếu Natural Language Processing (NLP)', 'Thiếu GPA trên 2.8 (GPA 2.6)', 'Thiếu Kinh nghiệm làm việc trên 8 tháng']",Đáp ứng 1 yêu cầu,67d3e9c5949532ec59d74fcc
+LONG NHAT,"['Biết Python: Có', 'Tiếng Anh: Basic Working Proficiency ', 'Computer Vision: Có', 'Thiếu Natural Language Processing (NLP)', 'GPA trên 2.8: Có', 'Thiếu Kinh nghiệm làm việc trên 8 tháng']",Đáp ứng 3 yêu cầu,67d3e9c5949532ec59d74fcd
+NGOC CHIEN,"['Biết Python: Có', 'Tiếng Anh: Basic Working Proficiency ', 'Thiếu Computer Vision', 'Thiếu Natural Language Processing (NLP)', 'Thiếu GPA trên 2.8 (GPA 2.3)', 'Thiếu Kinh nghiệm làm việc trên 8 tháng']",Đáp ứng 1 yêu cầu,67d3e9c5949532ec59d74fce
+Trong Lyo,"['Biết Python: Có', 'Tiếng Anh: Basic Working Proficiency\nFramework Tensorflow', 'Thiếu Computer Vision', 'Thiếu Natural Language Processing (NLP)', 'GPA trên 2.8: Có', 'Thiếu Kinh nghiệm làm việc trên 8 tháng']",Đáp ứng 2 yêu cầu,67d3e9c5949532ec59d74fcf

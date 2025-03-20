@@ -1,0 +1,9 @@
+transformers
+torch
+pypdf
+tensorflow-probability
+paddlepaddle
+paddleocr
+huggingface_hub
+opencv-python
+pandas
